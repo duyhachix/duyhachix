@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @duyhachix
 - 👀 I’m interested in web development, designing
-- 🌱 I’m currently learning JavaScript, Vuejs
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me https://www.facebook.com/chiju109/
+- Current skills set:
+  - FE: Javascript, Vuejs/VueX/Pinia, jQuery
+  - BE: Python, Flask
+  - DB: PostgreSQL, SQLite
+
+- 📫 How to reach me on facebook https://www.facebook.com/chiju109/
+- 🔗 How to reach me on LinkedIn https://www.linkedin.com/in/ntd109/
 
 <!---
 duyhachix/duyhachix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
